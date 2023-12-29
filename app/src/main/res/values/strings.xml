@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Panagrama</string>
+    <string name="editText_hint">Ingrese la Frase</string>
+    <string name="button_ok">Comprobar</string>
+    <string name="textView_Title">PANGRAMA</string>
+    <string name="textView_ind">Seleccione el archivo que desea verificar\ny despues vea en el archivo SOLUCION.TXT \nel resultado</string>
+</resources>
